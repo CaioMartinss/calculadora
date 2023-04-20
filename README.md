@@ -7,7 +7,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url] -->
 
-<!-- [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/) -->
+
 
 [![Contributors](https://img.shields.io/github/contributors/CaioMartinss/calculadora.svg)](https://github.com/CaioMartinss/calculadora/graphs/contributors)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=URL)](https://www.linkedin.com/in/caio-martinss/)
@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-
   - [React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   - CSS
 
-<!-- GETTING STARTED -->
+<!-- Començando-->
 ## Começando
  ### Instalação
 1. Possuir o github dektop
