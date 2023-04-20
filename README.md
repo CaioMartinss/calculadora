@@ -4,8 +4,10 @@
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/CaioMartinss/StrapDown.js/blob/master/LICENSE)
 
-<h1 align="center">Nome do Projeto</h1>
-<p align="center">Escrever uma breve descrição</p>
+<h1 align="center">Calculadora</h1>
+<p align="left">
+A calculadora criada com ReactJS é um projeto pessoal que teve como objetivo aprimorar meus conhecimentos na biblioteca JavaScript e desenvolvimento de interfaces de usuário dinâmicas. O projeto permite realizar todas as operações básicas de uma calculadora, tais como adição, subtração, multiplicação e divisão. O desenvolvimento da calculadora foi uma ótima oportunidade para aplicar conceitos importantes do React, como componentes, estados e propriedades. O projeto também permitiu a utilização de boas práticas de codificação e ferramentas de desenvolvimento para garantir a qualidade do código produzido.
+</p>
 
 
 Tabela de conteúdos
