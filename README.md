@@ -9,26 +9,19 @@
 A calculadora criada com ReactJS é um projeto pessoal que teve como objetivo aprimorar meus conhecimentos na biblioteca JavaScript e desenvolvimento de interfaces de usuário dinâmicas. O projeto permite realizar todas as operações básicas de uma calculadora, tais como adição, subtração, multiplicação e divisão. O desenvolvimento da calculadora foi uma ótima oportunidade para aplicar conceitos importantes do React, como componentes, estados e propriedades. O projeto também permitiu a utilização de boas práticas de codificação e ferramentas de desenvolvimento para garantir a qualidade do código produzido.
 </p>
 
-
 Tabela de conteúdos
 =================
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Instalação](#instalacao)
+   * [Rodando](#rodando)
+   * [Tecnologias](#tecnologias)
+   * [Autor](#tecnologias)
+<!--te-->
 
-### Features
+### Sobre
 
-- [x] calculo
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-
-
-### Pré-requisitos
+### Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte **ferramenta**:
 [Node.js](https://nodejs.org/en/). 
