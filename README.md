@@ -7,8 +7,11 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url] -->
 
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/)
+<!-- [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/) -->
+
 [![Contributors](https://img.shields.io/github/contributors/CaioMartinss/calculadora.svg)](https://github.com/CaioMartinss/calculadora/graphs/contributors)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=URL)](https://www.linkedin.com/in/caio-martinss/)
+
 
 
 <!-- TABLE OF CONTENTS -->
