@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=URL)](https://www.linkedin.com/in/caio-martinss/)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/CaioMartinss/calculadora/blob/master/LICENSE)
+[![GitHub followers](https://img.shields.io/github/followers/CaioMartinss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CaioMartinss?tab=followers)
+
 
 <h1 align="center"> 🧮 Calculadora</h1>
 
