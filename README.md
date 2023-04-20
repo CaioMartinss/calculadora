@@ -12,7 +12,7 @@
 
 💬 A calculadora criada com ReactJS é um projeto pessoal que teve como objetivo aprimorar meus conhecimentos na biblioteca JavaScript e desenvolvimento de interfaces de usuário dinâmicas. O projeto permite realizar todas as operações básicas de uma calculadora, tais como adição, subtração, multiplicação e divisão. O desenvolvimento da calculadora foi uma ótima oportunidade para aplicar conceitos importantes do React, como componentes, estados e propriedades. O projeto também permitiu a utilização de boas práticas de codificação e ferramentas de desenvolvimento para garantir a qualidade do código produzido.
 
-<!--  ## [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/)  -->
+## [Acesse o deploy do projeto](https://reactcalc1.netlify.app/) 
 
 
 <h4 align="center"> 
