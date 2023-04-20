@@ -69,16 +69,14 @@ $ npm run dev
 ```
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Google fonts](https://fonts.google.com/)
   
-## Resumos dos conhecimento utilizados:
-
+## ✔️ conhecimento utilizados:
+	
 * [semântica]()
 * [Css-flexbox]()
 * [Css-grid]()
