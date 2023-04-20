@@ -1,121 +1,75 @@
+<!-- [![Contributors](https://img.shields.io/github/contributors/CaioMartinss/calculadora.svg)](https://github.com/CaioMartinss/calculadora/graphs/contributors)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=URL)](https://www.linkedin.com/in/caio-martinss/) -->
 
-<a name="readme-top"></a>
-<!-- 
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/CaioMartinss/StrapDown.js/blob/master/LICENSE)
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url] -->
-
-
-
-[![Contributors](https://img.shields.io/github/contributors/CaioMartinss/calculadora.svg)](https://github.com/CaioMartinss/calculadora/graphs/contributors)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=URL)](https://www.linkedin.com/in/caio-martinss/)
+<h1 align="center">Nome do Projeto</h1>
+<p align="center">Escrever uma breve descrição</p>
 
 
+Tabela de conteúdos
+=================
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
-<!-- TABLE OF CONTENTS -->
-<details>
- <summary> VISÃO GERAL</summary>
-  <ol>
-    <li>
-      <a href="#sobre-o-projeto">Sobre o Projeto</a>
-      <ul>
-        <li><a href="#construção">Construção</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#começando">Começando</a>
-      <ul>
-        <li><a href="#instalação">Instalação</a></li>
-      </ul>
-    </li>
-    <li><a href="#contato">Contato</a></li>
-    <li><a href="#conhecimentos">Conhecimentos</a></li>
-  </ol>
-</details>
+### Features
+
+- [x] calculo
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
 
 
+### Pré-requisitos
 
-<!-- Sobre o Projeto -->
-## Sobre o Projeto
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte **ferramenta**:
+[Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código, eu recomendo o [VSCode](https://code.visualstudio.com/).
 
-<div style="position:relative;width:fit-content;height:fit-content;">
- 
+### 🎲 Rodando o projeto ()
 
-<!-- 
-### [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/) 
-https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-8e9e-f0672146bdaf.mp4
+```bash
+# Clone este repositório
+$ git clone <https://github.com/tgmarinho/nlw1>
 
--->
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw1
 
-## Construção
- #### Resumo das tecnologis usadas:
-  - JavaScript
-  - [React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  - CSS
+# Vá para a pasta server
+$ cd server
 
-<!-- Començando-->
-## Começando
- ### Instalação
-1. Possuir o github dektop
-2. Clonar o repositório com o github desktop:
-   ```sh
-   https://github.com/CaioMartinss/fruteira-html-css.git
-   ```
-3. Utilzar uma IDE para rodar o projeto
-     - Sugestão: [Visual Studio Code](https://code.visualstudio.com/)
+# Instale as dependências
+$ npm install
 
-<!-- Contato -->
-## Contato
-<!-- Caio Martins do Nascimento - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
- 
-LINK DO PROJETO: [https://github.com/CaioMartinss/fruteira-html-css](https://github.com/CaioMartinss/fruteira-html-css)
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
 
-<!-- ACKNOWLEDGMENTS -->
-## Conhecimentos
- ### Resumos dos conhecimento utilizados:
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
+### 🛠 Tecnologias
 
-* [semântica]()
-* [estado]()
-* [Css-flexbox]()
-* [Css-grid]()
-* [Níveis de cabeçalho(html)]()
-* [Hierarquia de diretórios]()
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/10a146fbe0eaa590cf49d77127f22e37?s=80" width="100px;" alt=""/>
+ <br />
+ <sub><b>Caio Martins do Nascimento</b></sub></a> <a href="#" title="Caio Martins do Nascimento">🚀</a>
 
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+Feito com ❤️ por Caio Martins 👋🏽 Entre em contato!
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
+[![Linkedin Badge](https://img.shields.io/badge/-caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-martinss/)](https://www.linkedin.com/in/caio-martinss/) 
+[![Gmail Badge](https://img.shields.io/badge/-martinscaio29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinscaio29@gmail.com)](mailto:martinscaio29@gmail.com)
