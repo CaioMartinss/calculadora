@@ -25,8 +25,8 @@ Tabela de conteúdos
 
 <div style="position:relative;width:fit-content;height:fit-content;">
  
-### [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/) 
-https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-8e9e-f0672146bdaf.mp4
+<!-- ### [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/) 
+https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-8e9e-f0672146bdaf.mp4 -->
 
 ### Instalação
 
@@ -38,21 +38,21 @@ Além disto é bom ter um editor para trabalhar com o código, eu recomendo o [V
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone https://github.com/CaioMartinss/calculadora.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd react-calculaddora
 
-# Vá para a pasta server
-$ cd server
+# Vá para a pasta calculadora
+$ cd calculaddora
 
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute a aplicação 
+$ npm run dev
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará - acesse: http://*endereçodaaplicação*/
 ```
 ### 🛠 Tecnologias
 
@@ -64,7 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="#">
  <img style="border-radius: 50%;" src="https://s.gravatar.com/avatar/10a146fbe0eaa590cf49d77127f22e37?s=80" width="100px;" alt=""/>
  <br />
  <sub><b>Caio Martins do Nascimento</b></sub></a> <a href="#" title="Caio Martins do Nascimento">🚀</a>
