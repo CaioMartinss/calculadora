@@ -8,8 +8,8 @@
 [![MIT License][license-shield]][license-url] -->
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/caio-martinss/)
+[![Contributors](https://img.shields.io/github/contributors/CaioMartinss/calculadora.svg)](https://github.com/CaioMartinss/calculadora/graphs/contributors)
 
-[contributors-shield](https://github.com/CaioMartinss/calculadora/graphs/contributors)
 
 <!-- TABLE OF CONTENTS -->
 <details>
