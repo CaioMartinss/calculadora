@@ -19,7 +19,14 @@ Tabela de conteúdos
    * [Autor](#tecnologias)
 <!--te-->
 
-### Sobre
+
+<!-- Sobre o Projeto -->
+## Sobre o Projeto
+
+<div style="position:relative;width:fit-content;height:fit-content;">
+ 
+### [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/) 
+https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-8e9e-f0672146bdaf.mp4
 
 ### Instalação
 
