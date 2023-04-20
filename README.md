@@ -12,9 +12,14 @@
 
 💬 A calculadora criada com ReactJS é um projeto pessoal que teve como objetivo aprimorar meus conhecimentos na biblioteca JavaScript e desenvolvimento de interfaces de usuário dinâmicas. O projeto permite realizar todas as operações básicas de uma calculadora, tais como adição, subtração, multiplicação e divisão. O desenvolvimento da calculadora foi uma ótima oportunidade para aplicar conceitos importantes do React, como componentes, estados e propriedades. O projeto também permitiu a utilização de boas práticas de codificação e ferramentas de desenvolvimento para garantir a qualidade do código produzido.
 
+<!--  ## [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/)  -->
+
+
 <h4 align="center"> 
 	🚧  Calculadora ♻️ Concluído 🚀 🚧
 </h4>
+
+
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> • 
@@ -31,8 +36,7 @@
 
 <div style="position:relative;width:fit-content;height:fit-content;">
  
-<!-- ### [Acesse o deploy do projeto](https://fruteira-html-css.netlify.app/) 
-https://user-images.githubusercontent.com/83457944/233096596-97a0f7da-006a-4640-8e9e-f0672146bdaf.mp4 -->
+
 
 ### Instalação
 
@@ -60,15 +64,28 @@ $ npm run dev
 
 # O servidor inciará - acesse: http://*endereçodaaplicação*/
 ```
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Google fonts](https://fonts.google.com/)
   
-  
+## Resumos dos conhecimento utilizados:
+
+* [semântica]()
+* [Css-flexbox]()
+* [Css-grid]()
+* [Estado]()
+* [Eventos]()
+* [Níveis de cabeçalho]()
+* [Hierarquia de diretórios]()
+* [Css-responsividade]()  
+	
+	
  ## Autor
 
 <a href="#">
